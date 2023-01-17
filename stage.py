@@ -56,8 +56,6 @@ stages = ['''
 =========
 ''']
 
-
-
 def alphaPlace(word):
     hm = {}
     for i in word:
