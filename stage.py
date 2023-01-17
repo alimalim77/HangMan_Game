@@ -65,5 +65,3 @@ def alphaPlace(word):
     return hm
     
 
-
-print(alphaPlace("amazon"))
